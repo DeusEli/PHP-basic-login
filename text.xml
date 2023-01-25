@@ -1,0 +1,30 @@
+<restaurante>
+  	<queso>
+    	Me gusta el queso
+  	</queso>
+  	<comida>
+    	<ingrediente>
+			<precio>
+				$25
+			</precio>
+      		ingrediente 1
+    	</ingrediente>
+    	<ingrediente>
+      		ingrediente 2
+    	</ingrediente>
+  	</comida>
+  	<panqueque>
+    	<ingrediente>
+      		ingrediente 1
+    	</ingrediente>
+    	<ingrediente>
+      		ingrediente 2
+    	</ingrediente>
+    	<ingrediente>
+      		ingrediente 3
+    	</ingrediente>
+    	<ingrediente>
+      		ingrediente 4
+    	</ingrediente>
+  	</panqueque>
+</restaurante>
